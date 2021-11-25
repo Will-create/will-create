@@ -4,9 +4,8 @@ I'm a javascript lover.
 I am passionate about web fullstack development with javascript.
 I started with PHP laravel and now i enjoy using javascript for frontend, backend and mobile developpement.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=will-create&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dark" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=will-create&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dark" />
+![Louis Bertson's github stats](https://github-readme-stats.vercel.app/api?username=will-create&show_icons=true&theme=dark)
+[![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=will-create&layout=compact)](https://github.com/will-create/github-readme-stats)
 
 Here are some ideas to get you started:
 
