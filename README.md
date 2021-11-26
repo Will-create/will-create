@@ -2,7 +2,7 @@
 
 I'm a javascript lover. 
 I am passionate about web fullstack development with javascript.
-I started with PHP laravel and now i enjoy using javascript for frontend, backend and mobile developpement.
+I started with PHP laravel and now i enjoy using javascript for frontend, backend and mobile developpement. <br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will-create&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" />
 
 
